@@ -54,7 +54,7 @@ To run this project on your local machine, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/hri-ddo/StockPrice.git](https://github.com/hri-ddo/StockPrice.git)
+git clone https://github.com/hri-ddo/StockPrice.git
 cd StockPrice
 ```
 ### 2. Install Dependencies
